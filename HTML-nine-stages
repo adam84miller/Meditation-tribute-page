@@ -1,0 +1,60 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<html>
+<main id = 'main'>
+<h1 id = "title">The 9 Stages of Samatha/Vipassana Meditation</h1>
+  <figure id = "img-div">
+    <img id = 'image' src = "https://i.pinimg.com/originals/4e/b8/28/4eb828e2b06e564d56e81cdcb3f01c82.jpg" alt = "Traditional depiction of the nine stages of samatha/vippasana meditation">
+  <figcaption id = 'img-caption'>The elephant is the example of the mind for:
+
+If an elephant is wild, it is very dangerous to all other animals. Likewise, if the mind is not tamed it  harms others. All suffering is caused by the untamed mind.
+
+An elephant once tamed obeys its master better than any other animal; even if the master were to say  pick up a very large hot ball with its trunk, the elephant will do so. Therefore, the mind when tamed, can perform any action, no matter how difficult.
+
+The footprint of the elephant is larger than any other animal's. Likewise, if our mind is tamed and comes into the realm of the Dharma, it serves its master better than any other and its capacity and scope is unlimited. If our mind is very peaceful and well tamed, there will no longer be any enemies of that person anywhere. If our mind is peaceful, we make all others around us peaceful. All the results of our mind-whether good or bad-increase, for body and speech of a person are only servants of the mind.
+The monk in the drawing is the meditator.
+The dark color of the elephant signifies the presence of weakness and fogginess, because these two are "the darkness of the mind."
+The monkey's dark color symbolizes scattering of attention; its presence symbolizes distraction and scattering of focus from both inner turbulence and outer attraction. Thus the monkey leads the elephant everywhere, always to different objects. (Just as scattering distracts the mind to sense objects).
+The rope held by the monk symbolizes recollectedness; and the hook symbolizes watchfulness or alertness not only to the instruction about the practice of Calm-Abiding but also to the enlarging of the undistracted field of Awareness: what is occurring and what one is doing.
+The fire is the energy and zest for meditation. The progressively diminishing flame, along the path, is lessening of effort needed to cultivate understanding and recollected concentration.
+Cloth (touch), fruit (taste), perfume conch (smell), cymbals (hearing), and a mirror (seeing) are the distractions of the five senses and their objects because in the early stages of cultivating meditation, the attention is readily distracted by objects of the senses.
+The rabbit represents a more subtle aspect of scattering and fogginess, which dilutes the zest for practice and diminishes the mind's clarity.
+    The Nine elephants show progression on the Path to Calm-abiding.</figcaption></figure>
+  <section id = 'tribute-info'>
+  <h2 id = 'headline'>The nine stages briefly explained</h2>
+<ol>
+<li><strong>Learning meditation instructions, meditation postures, interrupted attention and overcoming mind wandering.</strong></li>
+<p>At this stage the practitioner hears instructions on how to meditate and becomes familiar with meditative postures. Practitioners become able to place attention on the object of meditation (for example, the breath at the nose or tactile sensations of the rise and fall of the breath felt within the body), but are unable to maintain attention for long. Distractions including monkey mind, mind wandering, forgetting, impatience, and other hindrances can be common. You can usually maintain attention on the meditation object for brief periods. In this stage your thoughts, the minds spontaneous movement of attention, and the overall wildness of mind experienced when meditating is occasionally interrupted by spontaneous introspective awareness and stable attention and we tame the monkey mind while reducing mind wandering.</p>
+  <li><strong>Sustained Attention and overcoming forgetting</strong></li>
+<p>The practitioner experiences moments of sustained attention on the meditation object and periods of monkey mind and mind wandering are negligible. Forgetting the object of meditation and falling asleep become the obstacles in this stage. Practitioners use techniques such as following the breath, connecting, labeling, and checking in. At the conclusion of this stage the meditator rarely forgets the object of meditation or falls asleep. Meditators have achieved a milestone of continous attention to the meditation object at this point</p>
+  <li><strong>Continuous Attention and overcoming gross distraction and strong dullness</strong></li>
+<p>The practitioner’s attention becomes mostly fixed on the object of meditation for the majority of practice and practitioners are able to immediately realize when they have lost their mental hold on the object and are able to restore attention quickly. At this point, forgetting becomes minimal. Gross distraction, subtle dullness, pain and discomfort, emotionally charged visions and memories, and intellectual insights become the obstacles in this stage. This is when you can maintain your attention on the meditation object for longer periods. In this stage you’re really starting to get the hang of it. Now at this point meditation is occasionally interrupted by the distractions of the mind. The goal being to prevent gross distractions from pushing the breath into the background</p>
+  <li><strong>Close Attention</strong></li>
+<p>The practitioner can maintain attention throughout the entire meditation session (an hour or more) without losing their mental hold on the meditation object. In this stage the practitioner achieves the power of mindfulness. Nevertheless, this stage still contains subtle forms of excitation and dullness or laxity.</p>
+  <li><strong>Tamed Attention</strong></li>
+<p>By this stage the practitioner achieves deep tranquility of mind, but must be watchful for subtle forms of laxity or dullness, peaceful states of mind which can be confused for calm abiding. By focusing on the future benefits of gaining Samatha, the practitioner can uplift the mind and become focused and clear.</p>
+  <li><strong>Pacified Attention</strong></li>
+<p>This is the stage during which subtle mental dullness or laxity are no longer strong, but now the practitioner becomes prone to subtle excitements which arise at the periphery of meditative attention.</p>
+  <li><strong>Fully Pacified Attention</strong></li>
+<p>Although the practitioner may still experience subtle excitement or dullness, these are rare and easily recognized and pacified.</p>
+<li><strong>Single Pointed Awareness</strong></li>
+<p>In this stage the practitioner can reach high levels of concentration with only slight effort and without being interrupted even by subtle laxity or excitement during the entire meditation session.</p>
+  <li><strong>Attentional Balance</strong></li>
+<p>The meditator now effortlessly reaches absorbed concentration and can maintain it for at least four hours without any interruption.</p>
+  </ol>
+  <blockquote cite = 'http://www.dharmafellowship.org/library/essays/nine-stages-of-abiding.htm'>
+    <p>"After the 9th Stage of Calm-Abiding is attained, many new and extraordinary experiences come, which have never been experienced before. When these experiences come, this is the sign that Calm-Abiding has been attained. From the heart of the meditating monk emanates a rainbow. The monk is shown flying alone; this is bodily bliss.
+
+Riding the elephant is the attainment of Calm-Abiding, across the rainbow is mental bliss.
+
+Wielding the flaming sword of perfect insight, the monk returns triumphantly along the rainbow; for samara's root is destroyed in union of samatha and vipasyana (sword), now with emptiness (sunyata) as the object of contemplation.
+
+Control of the flame of supreme remembrance and clear comprehension represents the ability to examine the sublime meaning of sunyata: the knowledge of the ultimate reality of all phenomena.
+
+From the monk's heart emanate two dark rainbows, which the monk is just about to cut asunder with his flaming sword of wisdom. These two rainbows represent karmic hindrances and mental illusion (klesa-varanā), and the obscurations of the instincts of mental distortion (Uneyavarana).
+
+Not only when in meditation, but in all actions, the one possessed of accomplished Calm-Abiding is at this stage fully concentrated. The body feels light as the wood-wool flower (like the mimosa blossom)... Like someone who has "sharpened the axe to cut all things," he is capable of doing any other meditative practice.
+
+After sharpening an axe, so a person must use it. Therefore from taming the mind in Calm-Abiding, one must use it for attainment of Illumination! We must ourselves become Buddha! The important thing is developing the mind! One has to free one's mind from the "trap of delusion."</p>
+    <cite>Dharma Fellowship of His Holiness the Gyalwa Karmapa</cite></blockquote>
+  <h3>For more information check out <a id = 'tribute-link' href = 'http://xuanfa.net/buddha-dharma/concepts-principles/concentration-samadhi/nine-levels-or-stages-of-meditation/' target = '_blank'>Xuanfa Institute</a></h3>
+</section></main></html>
